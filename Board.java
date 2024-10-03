@@ -47,8 +47,10 @@ final class BoardFoot {
 
         // Error Check
         try {
-            System.out.println("This program figures out the length of a wooden board that is "
-                             + "1 board foot in dimensions. (1 board foot is 144 cubic inches "
+            System.out.println("This program figures out the length"
+                             + "of a wooden board that is "
+                             + "1 board foot in dimensions."
+                             + "(1 board foot is 144 cubic inches "
                              + "of wood.)");
             // Print a new line for clarity before prompting for input
             System.out.println();
